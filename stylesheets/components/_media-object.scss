@@ -1,0 +1,15 @@
+.media {
+  // Styles for `.media` block
+
+  &__img {
+    // Styles for `.media__image` element
+
+    &--full {
+      // Styles for `.media__image--full` modified element
+    }
+  }
+
+  &--new {
+    // Styles for `.media--new` midifier
+  }
+}
